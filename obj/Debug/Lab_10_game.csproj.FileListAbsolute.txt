@@ -1,0 +1,12 @@
+D:\CEITI\..3 КУРС\C#\Lab_10_game\bin\Debug\Lab_10_game.exe.config
+D:\CEITI\..3 КУРС\C#\Lab_10_game\bin\Debug\Lab_10_game.exe
+D:\CEITI\..3 КУРС\C#\Lab_10_game\bin\Debug\Lab_10_game.pdb
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.csproj.AssemblyReference.cache
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.csproj.SuggestedBindingRedirects.cache
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.Form1.resources
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.Properties.Resources.resources
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.csproj.GenerateResource.cache
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.csproj.CoreCompileInputs.cache
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.exe
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.pdb
+D:\CEITI\..3 КУРС\C#\Lab_10_game\obj\Debug\Lab_10_game.diagram.resources
